@@ -1,0 +1,6 @@
+Keras==2.2.2
+Tensorflow==1.9.0
+Scipy== 1.1.0
+Numpy==1.14.3
+Pillow(PIL)==5.1.0
+OpenCV==3.4.1
